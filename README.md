@@ -13,6 +13,8 @@
 </a>
 <a href="https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC" target="blank"><img src="https://img.shields.io/badge/GRUPO-3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+<a href="https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC" target="blank"><img src="https://img.shields.io/badge/GRUPO-4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 ### `—◉ 🤖 BOT OFICIAL 🤖`
 
