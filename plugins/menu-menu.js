@@ -17,9 +17,9 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 *ミ💖 𝙷𝙾𝙻𝙰 ✨${taguser}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 *Black* - 𝙱𝙾𝚃 💖彡*
- *Número Del Creador:* +595 983 186566
-  *Número Del Bot Oficial:* +1 (601) 873-5554
-   _Datos: Bruno Sobrino_
+ *Número Del Creador:* +595 983 186566 y +52 453 110 6422
+  *Número Del Bot Oficial:* +1 (251) 494-1266 y +1 (559) 527-2586
+ 
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 *📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
 *📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
@@ -42,11 +42,6 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 
 ° ඬ⃟👽 _${usedPrefix}join *<enlace / link / url>*_
 
-*<𝕊𝔼ℝ𝔹𝕆𝕋 - 𝕁𝔸𝔻𝕀𝔹𝕆𝕋/>*
-
-° ඬ⃟🤖 _${usedPrefix}serbot_
-° ඬ⃟🤖 _${usedPrefix}stop_
-° ඬ⃟🤖 _${usedPrefix}bots_
 
 *<𝕁𝕌𝔼𝔾𝕆𝕊/>*
 
@@ -538,7 +533,7 @@ mediaUrl: null,
 title: '👑 Grupo oFC  👑',
 body: null,
 thumbnail: img,
-sourceUrl: `https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D`
+sourceUrl: `https://chat.whatsapp.com/I1vjFTvfZQbJI4aw0Vj5dk`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
