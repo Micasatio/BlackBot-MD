@@ -36,7 +36,7 @@
 👉 apt-get update -y && apt-get upgrade -y
 👉 cd && termux-setup-storage
 👉 pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
-👉 git clone https://github.com/Micasatio/BotBlack.git && cd BotBlack
+👉 git clone https://github.com/Micasatio/BlackBot-MD.git && cd BlackBot-MD
 👉 yarn install
 👉 npm install
 👉 npm update
@@ -49,7 +49,7 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 👉 cd 
-👉 cd BotBlack
+👉 cd BlackBot-MD
 👉 npm start
 ```
 
