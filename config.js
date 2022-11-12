@@ -6,17 +6,17 @@ import fs from 'fs'
 global.owner = [
   ['595983186566', '👑 Black - Creador 👑', true],
   ['524531106422', '👑 Black  - Creador 2 👑', true],
-  ['524531106422', '👑 Black - Collaborator 1 👑', true],
-  ['16018735554', '👑 Black - Collaborator 2 👑', true],
-  ['16018735554', '👑 Black - Collaborator 3 👑', true],
-  ['16018735554', '👑 Black - Collaborator 4 👑', true],
-  ['594983186566', '👑 Black - Collaborator 5 👑', true],
-  ['16018735554', '👑 Bkack - Collaborator 6 👑', true],  
-  ['16018735554'],
-  ['16018735554'],
-  ['16018735554'],
-  ['16018735554'],
-  ['16018735554']
+  ['15595272586', '👑 Black - Bot Oficial 1 👑', true],
+  ['12514941266', '👑 Black - Bot Oficial 2 👑', true],
+  ['12514941266', '👑 Black - Collaborator 3 👑', true],
+  ['15595272586', '👑 Black - Collaborator 4 👑', true],
+  ['12514941266', '👑 Black - Collaborator 5 👑', true],
+  ['15595272586', '👑 Bkack - Collaborator 6 👑', true],  
+  ['12514941266'],
+  ['15595272586'],
+  ['12514941266'],
+  ['15595272586'],
+  ['12514941266']
 ] 
 global.suittag = ['595983186566'] 
 global.prems = ['524531106422'] 
